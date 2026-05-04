@@ -1,0 +1,6 @@
+El nombre no puede estar vacío
+El nombre no puede estar vacío
+El nombre no puede estar vacío
+Tipo de equipo invÃ¡lido. Tipos permitidos: computador, proyector, sonido, impresora, tablet
+Tipo de equipo invÃ¡lido. Tipos permitidos: computador, proyector, sonido, impresora, tablet
+Tipo de equipo invÃ¡lido. Tipos permitidos: computador, proyector, sonido, impresora, tablet
