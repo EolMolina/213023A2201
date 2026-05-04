@@ -1,5 +1,4 @@
 import logging
-import tkinter as tk
 from datetime import datetime
 from abc import ABC, abstractmethod
 

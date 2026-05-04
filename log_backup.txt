@@ -1,0 +1,39 @@
+[2026-05-04 15:54:29] [INFO] Reserva creada para Wendy
+[2026-05-04 15:54:29] [INFO] Reserva confirmada - Cliente: Wendy - Costo: 130.0
+[2026-05-04 15:54:29] [INFO] Intento de confirmación ejecutado
+[2026-05-04 15:54:29] [INFO] Reserva creada para Wendy
+[2026-05-04 15:54:29] [INFO] Reserva confirmada - Cliente: Wendy - Costo: 660.0
+[2026-05-04 15:54:29] [INFO] Intento de confirmación ejecutado
+[2026-05-04 15:54:29] [INFO] Reserva creada para Wendy
+[2026-05-04 15:54:29] [INFO] Reserva confirmada - Cliente: Wendy - Costo: 510.0
+[2026-05-04 15:54:29] [INFO] Intento de confirmación ejecutado
+[2026-05-04 15:54:29] [INFO] Tipo de equipo inválido. Tipos permitidos: computador, proyector, sonido, impresora, tablet
+[2026-05-04 16:53:13] [INFO] Reserva creada para Wendy
+[2026-05-04 16:53:13] [INFO] Reserva confirmada - Cliente: Wendy - Costo: 130.0
+[2026-05-04 16:53:13] [INFO] Intento de confirmación ejecutado
+[2026-05-04 16:53:13] [INFO] Reserva creada para Wendy
+[2026-05-04 16:53:13] [INFO] Reserva confirmada - Cliente: Wendy - Costo: 660.0
+[2026-05-04 16:53:13] [INFO] Intento de confirmación ejecutado
+[2026-05-04 16:53:13] [INFO] Reserva creada para Wendy
+[2026-05-04 16:53:13] [INFO] Reserva confirmada - Cliente: Wendy - Costo: 510.0
+[2026-05-04 16:53:13] [INFO] Intento de confirmación ejecutado
+[2026-05-04 16:53:13] [INFO] Tipo de equipo inválido. Tipos permitidos: computador, proyector, sonido, impresora, tablet
+[2026-05-04 16:53:24] [INFO] Reserva creada para Wendy
+[2026-05-04 16:53:24] [INFO] Reserva confirmada - Cliente: Wendy - Costo: 130.0
+[2026-05-04 16:53:24] [INFO] Intento de confirmación ejecutado
+[2026-05-04 16:53:24] [INFO] Reserva creada para Wendy
+[2026-05-04 16:53:24] [INFO] Reserva confirmada - Cliente: Wendy - Costo: 660.0
+[2026-05-04 16:53:24] [INFO] Intento de confirmación ejecutado
+[2026-05-04 16:53:24] [INFO] Reserva creada para Wendy
+[2026-05-04 16:53:24] [INFO] Reserva confirmada - Cliente: Wendy - Costo: 510.0
+[2026-05-04 16:53:24] [INFO] Intento de confirmación ejecutado
+[2026-05-04 16:53:24] [INFO] Tipo de equipo inválido. Tipos permitidos: computador, proyector, sonido, impresora, tablet
+[2026-05-04 16:59:28] [INFO] Reserva creada para Wendy Ramos
+[2026-05-04 16:59:28] [ERROR] Duración inválida
+[2026-05-04 16:59:28] [INFO] Reserva creada para Juan Perez
+[2026-05-04 16:59:41] [INFO] Reserva creada para Wendy Ramos
+[2026-05-04 16:59:41] [ERROR] Duración inválida
+[2026-05-04 16:59:41] [INFO] Reserva creada para Juan Perez
+[2026-05-04 17:00:13] [INFO] Reserva creada para Wendy Ramos
+[2026-05-04 17:00:13] [ERROR] Duración inválida
+[2026-05-04 17:00:13] [INFO] Reserva creada para Juan Perez

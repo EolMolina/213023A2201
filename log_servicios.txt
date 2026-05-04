@@ -1,0 +1,7 @@
+2026-05-04 16:48:22 [ERROR] Simulación 2: El nombre debe tener al menos 3 caracteres.
+2026-05-04 16:48:22 [ERROR] Simulación 3: Capacidad inválida (1-100).
+2026-05-04 16:48:22 [INFO] Reserva exitosa para Wendy Ramos
+2026-05-04 16:48:22 [ERROR] Error de servicio en reserva: Servicio Alquiler Equipo no disponible.
+2026-05-04 16:48:22 [INFO] Reserva exitosa para Juan Perez
+2026-05-04 16:48:22 [CRITICAL] Error inesperado: Duración inválida.
+2026-05-04 16:48:22 [INFO] Reserva exitosa para Juan Perez
