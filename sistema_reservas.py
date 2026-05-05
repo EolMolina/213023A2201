@@ -19,16 +19,33 @@ class ErrorServicio(Exception):
 # ===== CLIENTE =====
 class Cliente:
     def __init__(self, nombre, identificacion):
-        if not nombre:
-            raise ValueError("El nombre no puede estar vacio")
-        if not identificacion:
-            raise ValueError("Identificación inválida")
+        self.__nombre = None
+        self.__id = None
 
-        self.__nombre = nombre
-        self.__id = identificacion
+        self.set_nombre(nombre)
+        self.set_identificacion(identificacion)
 
+    # GETTERS
     def get_nombre(self):
         return self.__nombre
+
+    def get_identificacion(self):
+        return self.__id
+
+    # SETTERS (VALIDACIONES)
+    def set_nombre(self, nombre):
+        if not nombre or len(nombre.strip()) < 3:
+            raise ValueError("El nombre debe tener al menos 3 caracteres")
+        self.__nombre = nombre.strip()
+
+    def set_identificacion(self, identificacion):
+        if not identificacion or not str(identificacion).isdigit():
+            raise ValueError("La identificación debe ser numérica")
+        self.__id = identificacion
+
+    # OPCIONAL (BONUS)
+    def mostrar_info(self):
+        return f"Cliente: {self.__nombre} - ID: {self.__id}"
 
 
 # ===== SERVICIO ABSTRACTO =====
