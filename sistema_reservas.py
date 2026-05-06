@@ -390,12 +390,22 @@ class Reserva:
 
     def confirmar(self):
         try:
+            print(f"Intentando confirmar reserva para {self.cliente.get_nombre()}...")
+
             costo = self.servicio.calcular_costo()
             self.estado = "Confirmada"
-            print(f"Reserva confirmada para {self.cliente.get_nombre()} - Costo: {costo}")
+
         except Exception as e:
-            registrar_log(str(e))
+            self.estado = "Error"
+            registrar_log(f"[ERROR] Reserva fallida: {str(e)}")
             print("Error al confirmar reserva")
+
+        else:
+            registrar_log(f"[INFO] Reserva confirmada para {self.cliente.get_nombre()} - Costo: {costo}")
+            print(f"Reserva confirmada para {self.cliente.get_nombre()} - Costo: {costo}")
+
+        finally:
+            print("Proceso de confirmación finalizado\n")
 
     def cancelar(self):
         self.estado = "Cancelada"
